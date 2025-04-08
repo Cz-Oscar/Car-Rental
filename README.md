@@ -50,17 +50,21 @@ Here are some screenshots of the **Car Rental** mobile app:
 - **Login Screen**  
   ![Login](assets2/login.png)
 
-- **Mobile App Home Screen**  
+- **Car Search Screen**  
+  ![Search](assets2/search.png)
+  
+- **Mobile App Car Choose Screen**  
   ![Mobile App](assets2/mobile_app.png)
-
-- **Profile Screen**  
-  ![Profile](assets2/profiel.png)
 
 - **Reservation Screen**  
   ![Reservation](assets2/reservation.png)
 
-- **Car Search Screen**  
-  ![Search](assets2/search.png)
+- **Profile Screen**  
+  ![Profile](assets2/profiel.png)
+
+
+
+
 
 ---
 
