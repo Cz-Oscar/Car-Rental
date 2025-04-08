@@ -9,6 +9,7 @@ This project is a car rental application, consisting of both a **web** and **mob
 - **User Registration** and login
 - **Car listings** and **car reservation** system
 - **User profile management**
+- **Car Search Functionality**  
 - **Admin panel** for managing cars and reservations
    **Car search and scanning** (e.g., vehicle registration scanning) (currently in progress)
 - **Chatbot development** (currently in progress)
