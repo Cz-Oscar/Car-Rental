@@ -48,19 +48,19 @@ I was responsible for:
 Here are some screenshots of the **Car Rental** mobile app:
 
 - **Login Screen**  
-  ![Login](assets/login.png)
+  ![Login](assets2/login.png)
 
 - **Mobile App Home Screen**  
-  ![Mobile App](assets/mobile_app.png)
+  ![Mobile App](assets2/mobile_app.png)
 
 - **Profile Screen**  
-  ![Profile](assets/profiel.png)
+  ![Profile](assets2/profiel.png)
 
 - **Reservation Screen**  
-  ![Reservation](assets/reservation.png)
+  ![Reservation](assets2/reservation.png)
 
 - **Car Search Screen**  
-  ![Search](assets/search.png)
+  ![Search](assets2/search.png)
 
 ---
 
